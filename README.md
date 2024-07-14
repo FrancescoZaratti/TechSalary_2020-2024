@@ -3,7 +3,7 @@
 Hello 👋
 
 Welcome to the Capstone Project that completes my journey with Epicode.
-This project shows the skills I acquired during the Data Analyst course, using the tools designed to perform in-depth analysis. 📚
+This project shows the skills I acquired during the Data Analyst course, using the tools studied to model and analyze data. 📚
 
 In this project I analyze tech salaries for the last 5 years.
 
