@@ -1,3 +1,4 @@
+![EpicodeFZ](https://github.com/user-attachments/assets/9ca12022-40be-4436-acf9-198cbf0621e4)
 
 # Capstone Project
 **Video presentation** 
