@@ -8,6 +8,7 @@
 ## Index
 - [Dataset](#dataset-)
 - [Tool Used](#tools-used-)
+- [Results](#Results-and-Analysis-)
 - [Conclusioni](#conclusion-)
 
 ## Overview 👋
@@ -20,7 +21,7 @@ In this project, I analyzed **Tech Salaries** over the last 5 years.\
 The analysis was conducted using various advanced techniques and tools to ensure a thorough understanding of **salary trends**.
 
 ## Dataset 📁
-
+Link public dataset 👉 https://www.kaggle.com/datasets/zeesolver/data-eng-salary-2024 👈
 The initial main dataset consisted of only one fact table.
 \
 After further research and analysis, I was able to create additional dimensions to **normalize the dataset** and improve the overall analysis.
