@@ -2,7 +2,7 @@
 
 Video presentation 👉 https://www.linkedin.com/feed/update/urn:li:activity:7218307112899137537/ 👈
 
-Capstone Project - Data Analyst Course
+##Capstone Project - Data Analyst Course
 
 Overview 👋
 
