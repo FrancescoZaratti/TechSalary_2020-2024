@@ -5,10 +5,10 @@
 
 👉 https://www.linkedin.com/feed/update/urn:li:activity:7218307112899137537/ 👈
 
-## indice
--[Overview](#overview)\
--[Project Objective](#project-objective-)\
--[Conclusioni](#conclusion-)\
+# Index
+- [## Dataset](#dataset)\
+- [Tool Used](#tools-used-)\
+- [Conclusioni](#conclusion-)\
 
 ## Overview 👋
 Welcome to the **Capstone project** that concludes my journey with Epicode.\
