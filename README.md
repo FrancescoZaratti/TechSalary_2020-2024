@@ -7,7 +7,7 @@
 
 ## indice
 -[Overview](#overview)\
--[Project Objective](#project-objective-)#
+-[Project Objective](#project-objective-)\
 -[Conclusioni](#conclusion-)\
 
 ## Overview 👋
