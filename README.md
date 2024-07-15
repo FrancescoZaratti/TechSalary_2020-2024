@@ -7,6 +7,8 @@
 
 ## indice
 -[Overview](#Overview)
+-[Conclusioni](#Conclusion)
+
 ## Overview 👋
 Welcome to the **Capstone project** that concludes my journey with Epicode.\
 This project showcases the skills I acquired during the Data Analyst course, using various tools and technologies to **model and analyze data**. 📚
