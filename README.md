@@ -7,7 +7,7 @@
 
 ## indice
 -[Overview](#Overview)
--[Conclusioni](#Conclusion)
+-[Conclusioni](#conclusion)
 
 ## Overview 👋
 Welcome to the **Capstone project** that concludes my journey with Epicode.\
