@@ -7,9 +7,9 @@
 
 ## Index
 - [Dataset](#dataset-)
-- [Tool Used](#tools-Used-)
+- [Tools](#tools-Used-)
 - [Results](#Results-and-Analysis-)
-- [Conclusion](#conclusion-)
+- [Conclusions](#conclusion-)
 
 ## Overview 👋
 Welcome to the **Capstone project** that concludes my journey with Epicode.\
