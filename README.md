@@ -5,12 +5,6 @@
 
 👉 https://www.linkedin.com/feed/update/urn:li:activity:7218307112899137537/ 👈
 
-## Index
-- [Dataset](#dataset-)
-- [Tools](#tools-Used-)
-- [Results](#Results-and-Analysis-)
-- [Conclusions](#conclusion-)
-
 ## Overview 👋
 Welcome to the **Capstone project** that concludes my journey with Epicode.\
 This project showcases the skills I acquired during the Data Analyst course, using various tools and technologies to **model and analyze data**. 📚
@@ -21,7 +15,8 @@ In this project, I analyzed **Tech Salaries** over the last 5 years.\
 The analysis was conducted using various advanced techniques and tools to ensure a thorough understanding of **salary trends**.
 
 ## Dataset 📁
-Link public dataset 👉 https://www.kaggle.com/datasets/zeesolver/data-eng-salary-2024 👈\
+Link public dataset 👉 https://www.kaggle.com/datasets/zeesolver/data-eng-salary-2024 👈
+
 The initial main dataset consisted of only one fact table.\
 After further research and analysis, I was able to create additional dimensions to **normalize the dataset** and improve the overall analysis.
 
