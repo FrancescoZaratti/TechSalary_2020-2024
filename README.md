@@ -1,5 +1,7 @@
 ![EpicodeFZ](https://github.com/user-attachments/assets/9ca12022-40be-4436-acf9-198cbf0621e4)
 
+![Tech Salary GitHub](https://github.com/user-attachments/assets/1a0e4cf4-778a-4990-9738-d2f6a7568365)
+
 # Capstone Project
 **Video presentation** 
 
